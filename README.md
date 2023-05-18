@@ -1,5 +1,5 @@
 # Lottery-Scheduling
-โปรเจคปี 3 เทอม 1 วิชา Operating System
+โปรเจคปี 3 เทอม 1 วิชา Operating Systems
 
 จุดประสงค์ : 
 - ศึกษาการจองพื้นที่การทำงานใน cpu โดยใช้ Lottery Scheduling
