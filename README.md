@@ -7,4 +7,4 @@
 
 กำหนด : มี 2 งานได้แก่ jobA และ jobB
 
-![image](https://github.com/jameVee/Lottery-Scheduling/issues/1#issue-1725163552)
+![image](https://user-images.githubusercontent.com/59200533/240820153-d877c1ee-fe31-4249-b59e-57cb9e47bf9b.png)
