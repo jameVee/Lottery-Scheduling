@@ -6,3 +6,5 @@
 - พิสูจน์ความสัมพันธ์ระหว่าง Job Length กับ Fairness
 
 กำหนด : มี 2 งานได้แก่ jobA และ jobB
+
+![image](https://github.com/jameVee/Lottery-Scheduling/issues/1#issue-1725163552)
